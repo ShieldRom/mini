@@ -1,0 +1,10 @@
+How many such pairs of letters are there in the words 'PEDAGOGY' (when counted in forward i.e. A-Z and backward direction Z-A) which have as many letters between them in the word as there are in English alphabetical order?
+ (a) One  (b) Two  (c) Three  (d) More Than three
+How many such pairs of letters are there in the words 'ANACHRONISM' (when counted in forward i.e. A-Z and backward direction Z-A) which have as many letters between them in the word as there are in English alphabetical order?
+ (a) One  (b) Two  (c) Three  (d) More Than three
+How many such pairs of letters are there in the words 'INCONGRUOUS' (when counted in forward i.e. A-Z and backward direction Z-A) which have as many letters between them in the word as there are in English alphabetical order?
+ (a) One  (b) Two  (c) Three  (d) More Than three
+How many such pairs of letters are there in the words 'IRONY' (when counted in forward i.e. A-Z and backward direction Z-A) which have as many letters between them in the word as there are in English alphabetical order?
+ (a) One  (b) Two  (c) Three  (d) More Than three
+How many such pairs of letters are there in the words 'OXYMORON' (when counted in forward i.e. A-Z and backward direction Z-A) which have as many letters between them in the word as there are in English alphabetical order?
+ (a) One  (b) Two  (c) Three  (d) More Than three
